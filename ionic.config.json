@@ -1,0 +1,7 @@
+{
+  "name": "SWD106Final",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
