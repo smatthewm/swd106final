@@ -17,10 +17,9 @@
     "src/**/*.ts"
   ],
   "exclude": [
-    "node_modules",
-    "src/**/*.spec.ts",
-    "src/**/__tests__/*.ts"
+    "node_modules"
   ],
+  "baseUrl": "src",
   "compileOnSave": false,
   "atom": {
     "rewriteTsconfig": false
